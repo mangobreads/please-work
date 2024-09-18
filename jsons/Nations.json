@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Oyo",
-		"leaderName": "Ivan Sirko",
-		"adjective": ["Ukrainian"],
+		"name": "Dahomey",
+		"leaderName": "King Agaja",
+		"adjective": ["Dahomeyan"],
 		
-		"startBias": ["Forest"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hail to you, o great hetman Ivan Sirko. Ukraine is one of the successors of the medieval realm of Kyivan Rus. As such, Ukraine has a claim to the lands of the Rus alongside Russia. This has brought Ukraine and Russia conflict against each other on who leads Kyiv. Ukraine is led by Ivan Sirko and his Cossack hosts.",
@@ -25,15 +25,15 @@
 		"favoredReligion": "Christianity",
 		
 		"uniqueName": "Fertile Lands",
-		"uniques": ["Double quantity of [Wheat] produced",
+		"uniques": ["Earn [3]% of killed [Wounded] unit's [Cost] as [Gold]",
 			    "Double quantity of [Iron] produced",
 			    "Double quantity of [Coal] produced",
 			    "Double quantity of [Horses] produced"
 			   ],
 		"cities": [
-			"Kyiv",
-			"Kharkiv",
-			"Dnipro",
+			"Abomey",
+			"Whydah",
+			"Allada",
 			"Odesa",
 			"Donetsk",
 			"Zaporizhia",
